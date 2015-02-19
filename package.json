@@ -1,0 +1,27 @@
+{
+  "name": "rework-plugin-import-url",
+  "version": "0.1.0",
+  "description": "A rework plugin for replacing URLs in CSS @import rules.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JustBlackBird/rework-plugin-import-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JustBlackBird/rework-plugin-import-url/issues"
+  },
+  "author": {
+    "name": "Dmitriy Simushev",
+    "email": "simushevds@gmail.com"
+  },
+  "main": "index.js",
+  "keywords": [
+    "rework",
+    "css",
+    "import",
+    "url"
+  ],
+  "dependencies": {
+    "parse-import": "^2.0.0"
+  }
+}

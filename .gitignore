@@ -1,0 +1,2 @@
+# Ignore contrib node modules
+node_modules/*
