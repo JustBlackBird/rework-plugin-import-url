@@ -1,5 +1,7 @@
 # rework-plugin-import-url
 
+[![NPM version](https://img.shields.io/npm/v/rework-plugin-import-url.svg?style=flat)](https://www.npmjs.org/package/rework-plugin-import-url)
+
 > Replace URLs in CSS @import rules using a given function.
 
 
